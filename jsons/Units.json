@@ -43,7 +43,7 @@
 		"range": 1,
 		"movement": 2,
 		"strength": 15,
-		"cost": 36,
+		"cost": 44,
 		"requiredTech": "Mining",
 		"uniques": ["[+33]% Strength <vs [Archery] units>"],
 		"upgradesTo": "Horseman",

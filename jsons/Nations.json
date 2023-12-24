@@ -1,0 +1,27 @@
+[
+	
+	{
+		"name": "Polska",
+		"leaderName": "Kazimierz III Wielki",
+		"adjective": ["Polish"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "Witaj, oprowadź mnie po swoim marnym ludzie. Zniszczę Cię!",
+		"declaringWar": "Zadecydowałem, że Cię skończę!",
+		"attacked": "Moja armia zmiecie Cię w proch",
+		"defeated": "Gratuluję, lecz pamiętaj Jeszcze Polska nie zginęła!",
+		"introduction": "Jestem Kazimierz III, witaj w moim królestwie!",
+		"neutralHello": "Witaj, przyjacielu!",
+		"hateHello": "Czego tu szukasz?",
+		"tradeRequest": "Co sądzisz o mojej ofercie?",
+		"outerColor": [241,3,0],
+		"innerColor": [80,11,14],
+		"uniqueName": "Solidarność",
+		"uniques": ["[-10]% Culture cost of adopting new Policies","[+3 Gold] from every [Luxury resource]","[+100]% [Gold] [in capital]"],
+		"cities": ["Warszawa","Kraków","Łódź","Wrocław","Poznań","Gdańsk","Szczecin","Bydgoszcz","Lublin","Sopot",
+			"Katowice","Białystok","Gdynia","Świdnica","Częstochowa","Radom","Toruń","Kielce","Gliwice","Łowicz",
+			"Bytom","Olsztyn","Rzeszów","Ruda Śląska","Bielsko-Biala","Rybnik","Płock","Elbląg","Gorzów Wielkopolski","Opole",
+			"Łęczyca","Wałbrzych","Zielona Góra","Włocławek"]
+	}
+]

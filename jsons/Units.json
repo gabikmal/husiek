@@ -1,0 +1,52 @@
+[
+
+	{
+		"name": "Motocykl",
+		"unitType": "Ranged Gunpowder",
+		"range": 1,
+		"movement": 5,
+		"strength": 65,
+		"rangedStrength": 85,
+		"cost": 420,
+		"requiredTech": "Nuclear Fission",
+		"attackSound": "machinegun"
+	},
+	{
+		"name": "Skrzydlata husaria", 
+		"replaces": "Lancer",
+		"uniqueTo": "Polska",
+		"unitType": "Mounted",
+		"movement": 5,
+		"strength": 35,
+		"cost": 160,
+		"requiredTech": "Metallurgy",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>","[+33]% Strength <vs [Armored] units>","[+33]% Strength <vs [Mounted] units>"],
+		"upgradesTo": "Anti-Tank Gun",
+		"obsoleteTech": "Combined Arms",
+		"attackSound": "horse"
+	},
+	{
+		"name": "Jezdziec raptora",
+		"unitType": "Mounted",
+		"range": 1,
+		"movement": 4,
+		"strength": 9,
+		"cost": 26,
+		"requiredTech": "Animal Husbandry",
+		"uniques": ["Can move after attacking","[+33]% Strength <vs [Armored] units>"],
+		"upgradesTo": "Horseman",
+		"attackSound": "horse"
+	},
+	{
+		"name": "Wojownik",
+		"unitType": "Sword",
+		"range": 1,
+		"movement": 2,
+		"strength": 15,
+		"cost": 36,
+		"requiredTech": "Mining",
+		"uniques": ["[+33]% Strength <vs [Archery] units>"],
+		"upgradesTo": "Horseman",
+		"attackSound": "horse"
+	}
+	]

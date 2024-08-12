@@ -18,6 +18,13 @@ TileSets/5Hex/Units/Jezdziec raptora
   orig: 32, 28
   offset: 0, 0
   index: -1
+ TileSets/AbsoluteUnits/Units/Jezdziec raptora
+  rotate: false
+  xy: 735, 76
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Units/Jezdziec raptora
   rotate: false
   xy: 735, 76
@@ -46,6 +53,13 @@ TileSets/FantasyHex/Units/Motocykl
   orig: 32, 28
   offset: 0, 0
   index: -1
+ TileSets/AbsoluteUnits/Units/Motocykl
+  rotate: false
+  xy: 735, 40
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
 TileSets/HexaRealm/Units/Motocykl
   rotate: false
   xy: 735, 40
@@ -61,6 +75,13 @@ TileSets/5Hex/Units/Skrzydlata husaria
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Skrzydlata husaria
+  rotate: false
+  xy: 647, 34
+  size: 80, 70
+  orig: 80, 70
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Skrzydlata husaria
   rotate: false
   xy: 647, 34
   size: 80, 70
@@ -89,6 +110,13 @@ TileSets/FantasyHex/Units/Wojownik
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Wojownik
+  rotate: false
+  xy: 544, 9
+  size: 95, 95
+  orig: 95, 95
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Wojownik
   rotate: false
   xy: 544, 9
   size: 95, 95
